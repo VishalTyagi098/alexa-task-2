@@ -7,4 +7,4 @@
 
 ## Live website:-
   I hosted the websited on github pages.
-  link: 
+  link: https://vishaldev098.github.io/alexa-task-2/
